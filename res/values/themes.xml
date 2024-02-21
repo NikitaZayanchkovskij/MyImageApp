@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestTaskPexelsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TestTaskPexelsApp" parent="Base.Theme.TestTaskPexelsApp" />
+
+    <!-- Для SplashScreen делаю тему без ToolBar и StatusBar. -->
+    <style name="NoToolBarAndStatusBar" parent="Base.Theme.TestTaskPexelsApp">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

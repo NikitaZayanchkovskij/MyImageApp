@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name" translatable="false">TestTaskPexelsApp</string>
+    <string name="search_bar_hint">Search</string>
+    <string name="search_fragment_title">Searched category:</string>
+    <string name="home_screen">Home</string>
+    <string name="bookmarks_screen">Bookmarks</string>
+    <string name="no_bookmarks_message">You haven\'t saved anything yet</string>
+    <string name="no_results_message">No results found</string>
+    <string name="no_image_message">Image not found</string>
+    <string name="explore">Explore</string>
+    <string name="try_again_message">Try again</string>
+    <string name="download">Download</string>
+    <string name="image_download_completed">Image download completed</string>
+    <string name="tab_layout_loading">Loading… Please wait…</string>
+    <string name="try_again_no_internet">Internet is NOT connected. Please, check your if the
+        internet connection is active on your device.</string>
+
+</resources>

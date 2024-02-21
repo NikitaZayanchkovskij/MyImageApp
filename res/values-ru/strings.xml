@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="search_bar_hint">Поиск</string>
+    <string name="home_screen">Домой</string>
+    <string name="bookmarks_screen">Закладки</string>
+    <string name="no_bookmarks_message">Вы ещё ничего не сохранили</string>
+    <string name="explore">Найти</string>
+    <string name="no_results_message">Ничего не найдено</string>
+    <string name="try_again_message">Попробуйте ещё раз</string>
+    <string name="download">Загрузить</string>
+    <string name="no_image_message">Изображение не найдено</string>
+    <string name="tab_layout_loading">Идёт загрузка…</string>
+    <string name="try_again_no_internet">Интернет НЕ подключён. Пожалуйста проверьте, включен ли
+        интернет на вашем устройстве.</string>
+    <string name="image_download_completed">Загрузка изображения завершена</string>
+    <string name="search_fragment_title">Поиск по категории:</string>
+
+</resources>

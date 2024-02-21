@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/home_screen"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/home_screen"
+        android:orderInCategory="1" />
+    <item
+        android:title="@string/bookmarks_screen"
+        android:icon="@drawable/ic_bookmarks"
+        android:id="@+id/bookmarks_screen"
+        android:orderInCategory="2" />
+
+</menu>
